@@ -25,10 +25,16 @@ Determine the optimal value of lambda for ridge and lasso regression.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Regularised Model Built with Ridge and Lasso Regression
+- Accuracy of 89.23% fro Ridge and 90.5% for Lasso Obtained on Test data
+- Lasso Performed better than Ridge
+- Top 5 predictive variables are 
+GrLivArea: 	Above grade (ground) living area square feet
+OverallQual:	Rates the overall material and finish of the house
+TotalBsmtSF:	Total square feet of basement area
+OverallCond:	Rates the overall condition of the house
+BsmtFinSF1:	ype 1 finished square feet
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
